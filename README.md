@@ -1,31 +1,43 @@
-# S2--Teen-Titans
+<a name="readme-top"></a>
 
-# S2--Teen-Titans 👊
+<br/>
+<div align="center">
+  <img src="./assets/img/Robin-1" alt="Robin Logo" width="130" height="100">
+  <h3 align="center">WD-RobinWebPage</h3>
+</div>
 
-A Teen Titans-themed web project focused on **Robin**, showcasing a stylish single-page website with responsive layout, custom sections, and a team-based design approach.
+<div align="center">
+  A Teen Titans-themed web project showcasing 5 creative header and footer designs based on Robin.
+</div>
 
-![Visitor Counter](https://visit-counter.vercel.app/counter.png?page=GhostdogXx/S2--Teen-Titans)
+<br/>
 
----
-
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Key Components](#key-components)
-- [Technology](#technology)
-- [Rules, Practices and Principles](#rules-practices-and-principles)
-- [Resources](#resources)
-
----
-
-## 🧾 Overview
-
-This is a web design project for the **Web Design (WD)** subject. It highlights **Robin** — the leader of the Teen Titans — and includes themed content sections like **About**, **Skills**, **Team**, and **Contact**.
-
-The layout and color palette (Red, Yellow-Green, Black) reflect Robin's costume and personality.
+![](https://visit-counter.vercel.app/counter.png?page=GhostdogXx/WD-Seatwork-1)
 
 ---
 
-## 🧩 Key Components
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview">Overview</a>
+      <ol>
+        <li><a href="#key-components">Key Components</a></li>
+        <li><a href="#technology">Technology</a></li>
+      </ol>
+    </li>
+    <li><a href="#rules-practices-and-principles">Rules, Practices and Principles</a></li>
+    <li><a href="#resources">Resources</a></li>
+  </ol>
+</details>
+
+---
+
+## Overview
+
+This is a single-page web design project for Web Design subject. It focuses on Robin from Teen Titans, using colors and layout that represent his character. The site features **five different headers** and **five unique footers**, all styled with HTML and CSS.
+
+### Key Components
 - Multi-section HTML5 website
 - Responsive design using pure HTML and CSS
 - Navigation bar with smooth scrolling and hamburger menu
@@ -33,16 +45,11 @@ The layout and color palette (Red, Yellow-Green, Black) reflect Robin's costume 
 - Hero section showcasing Robin
 - GitHub-hosted via GitHub Pages
 
----
-
-## 💻 Technology Used
+### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 📏 Rules, Practices and Principles
-
+## Rules, Practices and Principles
 1. Project folder name starts with `WD-`.
 2. The homepage file is named `index.html`.
 3. File structure separates content by type (HTML, CSS, images).
@@ -51,29 +58,32 @@ The layout and color palette (Red, Yellow-Green, Black) reflect Robin's costume 
 6. Use **camelCase** or **kebab-case** consistently for file names.
 7. Structure:
 
+
+
+```
 WD-S2--Teen-Titans
-├── assets
-│ ├── css
-│ │ └── style.css
-│ └── img
-│ └── robin.jpg
-├── index.html
-├── about.html
-├── skills.html
-├── team.html
-├── contact.html
-└── README.md
+└─ assets
+|   └─ css
+|   |   └─ style.css
+|   └─ img
+|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   └─ js
+|       └─ script.js
+└─ pages
+|  └─ pageName
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+└─ index.html
+└─ readme.md
+```
 
-
----
-
-## 📚 Resources
-- [Teen Titans Wiki](https://teentitans.fandom.com)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [W3Schools HTML/CSS](https://www.w3schools.com/)
-- [Shields.io](https://shields.io/) for badge creation
-
----
+## Resources
 
 ## 📸 Preview
 
