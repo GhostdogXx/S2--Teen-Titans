@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-  <img src="./assets/img/Robin-1" alt="Robin Logo" width="130" height="100">
+  <img src="./assets/img/Robin-1.jpg" alt="Robin Logo" width="130" height="100">
   <h3 align="center">WD-RobinWebPage</h3>
 </div>
 
